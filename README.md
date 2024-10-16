@@ -2,7 +2,10 @@
 
 ## Scripts
 
-- Vacuum check
+- Tables needs Vacuum check
+- Tables vacuum activity check
+- Table privileges check
+- Long running connection check
 
 ## Monitoring Stats
 
