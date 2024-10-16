@@ -1,4 +1,4 @@
-# PostgreSQL Management Guideline
+# PostgreSQL management practices
 
 ## Scripts
 
