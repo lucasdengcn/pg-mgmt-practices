@@ -7,6 +7,30 @@
 - Table privileges check
 - Long running connection check
 
+## Migration & Versioning
+
+- Git
+- Flyway
+- Pipeline
+
+## Development Review
+
+- Naming
+- Indexing
+- Querying
+- Application
+
+## Security Review
+
+- Users
+- Roles
+- Permissions
+
+## Changes Management
+
+- Schema changes
+- Changes on Large tables
+
 ## Monitoring Stats
 
 [System Stats](https://www.postgresql.org/docs/current/monitoring-stats.html)
@@ -42,3 +66,5 @@
 
 [Template 9628](https://grafana.com/grafana/dashboards/9628-postgresql-database/)
 [PG Bouncer](https://grafana.com/grafana/dashboards/9760-postgresql-pgbouncer/)
+
+## Backup and Recovery
